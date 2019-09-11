@@ -1,0 +1,93 @@
+baseurl = "https://openpass.eclipse.org/"
+DefaultContentLanguage = "en"
+title = "OpenPASS"
+theme = "eclipsefdn-hugo-solstice-theme"
+metaDataFormat = "yaml"
+googleAnalytics = "UA-910670-30"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+themesDir = "node_modules/"
+enableRobotsTXT = true
+
+[Params]
+  google_tag_manager = "GTM-5WLCZXC"
+  description = "The rise of advanced driver assistance systems and partially automated driving functions leads to the need of virtual simulation to assess these systems and their effects."
+  seo_title_suffix = " | The Eclipse Foundation"
+  keywords = ["automotive", "systems", "engineering"]
+  logo = "images/openpass/logo.png"
+  styles = "css/styles.css"
+  favicon = "images/openpass/favicon.ico"
+  share_img = "images/openpass/logo.png"
+  gcse = "011805775785170369411:p3ec0igo0qq"
+  js = "js/solstice.js"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  membership_level = "membership_levels"
+  participation_level = "participation_levels"
+
+[Author]
+  name = "Christopher Guindon"
+  website = "https://www.eclipse.org"
+  email = "webdev@eclipse-foundation.org"
+  facebook = "eclipse.org"
+  twitter = "EclipseFdn"
+  youtube = "EclipseFdn"
+  googleplus = "+Eclipse"
+  linkedin = "company/eclipse-foundation/"
+
+[permalinks]
+  news = "/:sections/:year/:month/:day/:slug/"
+
+[blackfriday]
+  plainIDAnchors = true
+  hrefTargetBlank = true
+  
+[[menu.main]]
+    name = "Goals and Vision"
+    url = "/about"
+    weight = "1"
+    
+[[menu.main]]
+    name = "Technology"
+    url = "/technology"
+    weight = "2"
+    
+[[menu.main]]
+    name = "Architecture"
+    url = "/technology/architecture"
+    parent = "Technology"
+    weight = "1"
+
+[[menu.main]]
+    name = "Related Eclipse Projects"
+    url = "/technology/related-eclipse-projects"
+    parent = "Technology"
+    weight = "2"
+    
+[[menu.main]]
+    name = "Working Group"
+    url = "#"
+    weight = "3"
+    
+[[menu.main]]
+    name = "Scope"
+    url = "/about/scope/"
+    parent = "Working Group"
+    weight = "1"
+    
+[[menu.main]]
+    name = "Governance"
+    url = "/about/governance/"
+    parent = "Working Group"
+    weight = "2"
+    
+[[menu.main]]
+    name = "Members"
+    url = "/membership"
+    weight = "4"
+    
+[[menu.main]]
+    name = "Contact"
+    url = "/about/contact"
+    weight = "5"
