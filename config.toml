@@ -4,7 +4,7 @@ title = "OpenPASS"
 theme = "eclipsefdn-hugo-solstice-theme"
 metaDataFormat = "yaml"
 googleAnalytics = "UA-910670-30"
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = []
 themesDir = "node_modules/"
 enableRobotsTXT = true
 
