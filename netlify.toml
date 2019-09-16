@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "npm run build_netlify && hugo"
+command = "npm run build_netlify && hugo -b https://openpass.netlify.com"
 
 [context.production.environment]
 HUGO_VERSION = "0.54.0"
