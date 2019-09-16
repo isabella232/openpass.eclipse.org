@@ -21,7 +21,7 @@ layout: "single"
       </ul>
   </div>
   <div class="col-sm-12 news-list">
-    {{< taxonomy_list taxonomy="categories" section="news" term="community news" >}}
+    {{< taxonomy_list taxonomy="categories" section="news" term="community-news" >}}
       <ul class="list-inline news-list-links">
         <li class="news-list-links-view-all"><a href="categories/community-news">View all</a></li>
         <li class="news-list-links-rss"><a href="news/index.xml" title="Subscribe to our RSS-feed">Subscribe to our RSS-feed <i class="fa fa-rss"></i></a></li>
