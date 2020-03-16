@@ -10,7 +10,7 @@ defaultRight: |
 items:
   -
     title: Goals and Vision
-    content: he rise of advanced driver assistance systems and partially automated driving functions leads to the need of virtual simulation to assess these systems and their effects.
+    content: The rise of advanced driver assistance systems and partially automated driving functions leads to the need of virtual simulation to assess these systems and their effects.
     link: <a class="btn btn-primary btn-lg" href="/about/">Learn More</a>
     bgImgSrc: /images/openpass/default-story-banner.jpg
     startDate: 2019-09-07
