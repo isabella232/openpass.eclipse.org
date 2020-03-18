@@ -16,7 +16,22 @@ For more information, contact or subscribe to the [public WG mailing list](https
 For addressing especially developers of OpenPASS, contact or subscribe to the [developer mailing list](https://dev.eclipse.org/mailman/listinfo/simopenpass-dev).
 
 **For the Eclipse Foundation:**  
+
 Ralph Mueller  
 Managing Director  
 Office: +49 6251 8606413  
-Mail: ralph.mueller@eclipse.org
+Mail: Ralph.Mueller@eclipse.org
+
+**For the openPass Working Group:**
+
+Tuan Duong Quang  
+Product Manager  
+Mail: Tuan.DuongQuang@tuev-sued.de  
+
+Jan Dobberstein  
+Speaker of Steering Committee  
+Mail: Jan.Dobberstein@daimler.com  
+
+Arun Das  
+Speaker of Architecture Committee  
+Mail: Arun.Das@bmw.de  
