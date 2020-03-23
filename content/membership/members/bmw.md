@@ -1,7 +1,7 @@
 ---
 title: "BMW Group"
 date: 2019-03-14T05:10:00-00:00
-logo: "/membership/members/logo/bmw.jpg"
+logo: "/membership/members/logo/BMW_GROUP.jpg"
 website: "https://www.bmwgroup.com"
 participation_levels: "Driver"
 member_id: 1009
