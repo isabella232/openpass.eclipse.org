@@ -1,9 +1,9 @@
 ---
 title: "TUEV SUED Auto Service GmbH"
 date: 2019-03-14T05:10:00-00:00
-logo: "/membership/members/logo/uev_sued_logo.png"
+logo: "/membership/members/logo/TUEV_SUED.jpg"
 website: "https://www.tuev-sued.de"
-participation_levels: "Driver"
+participation_levels: "Driver Members"
 member_id: 1273
 ---
 
