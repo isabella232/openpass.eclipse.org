@@ -3,7 +3,7 @@ title: "Toyota"
 date: 2020-03-19T05:10:00-00:00
 logo: "/membership/members/logo/Toyota.jpg"
 website: "https://www.toyota.com/"
-participation_levels: "User Member"
+participation_levels: "User"
 member_id: 1020
 ---
 

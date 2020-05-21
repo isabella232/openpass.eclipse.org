@@ -3,7 +3,7 @@ title: "Bosch"
 date: 2020-03-24T05:10:00-00:00
 logo: "/membership/members/logo/Bosch.jpg"
 website: "https://www.bosch.com/"
-participation_levels: "Driver Members"
+participation_levels: "Driver"
 member_id: 979
 ---
 
