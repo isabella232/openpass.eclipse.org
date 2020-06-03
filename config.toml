@@ -60,19 +60,19 @@ enableRobotsTXT = true
     
 [[menu.main]]
     name = "Scope"
-    url = "/about/scope/"
+    url = "/about/#scope"
     parent = "Working Group"
     weight = "1"
     
 [[menu.main]]
     name = "Timeline"
-    url = "/about/timeline/"
+    url = "/about/#timeline"
     parent = "Working Group"
     weight = "2"
     
 [[menu.main]]
     name = "Governance"
-    url = "/about/governance/"
+    url = "/about/#governance"
     parent = "Working Group"
     weight = "3"
 
@@ -84,7 +84,7 @@ enableRobotsTXT = true
 
 [[menu.main]]
     name = "Committees"
-    url = "/about/committees/"
+    url = "/about/#committees"
     parent = "Working Group"
     weight = "5"
     
