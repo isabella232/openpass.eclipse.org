@@ -17,7 +17,6 @@ enableRobotsTXT = true
   styles = "css/styles.css"
   favicon = "images/openpass/favicon.ico"
   share_img = "images/openpass/logo.png"
-  gcse = "011805775785170369411:p3ec0igo0qq"
   js = "js/solstice.js"
 
 [taxonomies]
