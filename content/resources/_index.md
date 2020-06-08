@@ -14,9 +14,7 @@ layout: "single"
 
 ## Sim@openPASS
 
-Sim@openPASS is the platform which is created, developed and maintained by the openPASS WG. The Eclipse sim@openPASS platform mainly consists of a GUI and a simulation core interacting with openPASS modules as well as external programs for post-processing. More information about the project can be found under https://projects.eclipse.org/projects/technology.simopenpass. The following link guides you to git repository where you can download the simulation platform.
-
-[https://git.eclipse.org/r/plugins/gitiles/simopenpass/simopenpass/]
+Sim@openPASS is the platform which is created, developed and maintained by the openPASS WG. The Eclipse sim@openPASS platform mainly consists of a GUI and a simulation core interacting with openPASS modules as well as external programs for post-processing. More information about the project can be found on the [project page](https://projects.eclipse.org/projects/technology.simopenpass). [This link](https://git.eclipse.org/r/plugins/gitiles/simopenpass/simopenpass/) directs you to the git repository to download the simulation platform.
 
 ## Installation
 
