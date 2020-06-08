@@ -20,6 +20,8 @@ Sim@openPASS is the platform which is created, developed and maintained by the o
 
 Here you can download [the installation guide for sim@openPASS](osi_world_set_up.pdf).
 
+Besides that, the openPASS WG cooperates with the High-Performance Computing Center Stuttgart HLRS. They provide a Windows installer for openPASS. The openPASS WG and the Eclipse Foundation are not responsible for the content and the installer did not went through any Eclipse Foundation processes. For a quick setup please have a look on their [site](https://fs.hlrs.de/projects/covise/support/download/openPASS/). If you are also interested to make distributions regarding openPASS relevant content, please get in contact with us. The contact information can be found in the tab "Contact".
+
 ## Tutorial
 
 Here you can download a [tutorial on how to configure a simulation with openPASS](tutorial_openpass_gui.pdf).
