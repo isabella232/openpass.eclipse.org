@@ -94,40 +94,46 @@ enableRobotsTXT = true
     weight = "4"
     
 [[menu.main]]
+    name = "Sim@openPASS"
+    url = "/resources/#sim@openPASS"
+    parent = "Resources"
+    weight = "1"
+    
+[[menu.main]]
     name = "Installation Guide"
     url = "/resources/#installation"
     parent = "Resources"
-    weight = "1"
+    weight = "2"
     
 [[menu.main]]
     name = "Tutorials"
     url = "/resources/#tutorial"
     parent = "Resources"
-    weight = "2"
+    weight = "3"
     
 [[menu.main]]
     name = "Documentation"
     url = "/resources/#documentation"
     parent = "Resources"
-    weight = "3"
+    weight = "4"
     
 [[menu.main]]
     name = "Glossary"
     url = "/resources/#glossary"
     parent = "Resources"
-    weight = "4"
+    weight = "5"
     
 [[menu.main]]
     name = "Report a bug"
     url = "/resources/#report-a-bug"
     parent = "Resources"
-    weight = "5"
+    weight = "6"
     
 [[menu.main]]
     name = "Project Page"
     url = "/resources/#project-page"
     parent = "Resources"
-    weight = "6"
+    weight = "7"
     
 [[menu.main]]
     name = "Contact"
