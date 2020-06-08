@@ -19,6 +19,10 @@ enableRobotsTXT = true
   share_img = "images/openpass/logo.png"
 # gcse = "011805775785170369411:p3ec0igo0qq"
   js = "js/solstice.js"
+  call_for_action_text = "Download"
+  call_for_action_url = "https://git.eclipse.org/r/plugins/gitiles/simopenpass/simopenpass/"
+  call_for_action_icon = "fa-download"
+  call_for_action_classes = "btn btn-secondary btn-huge"
 
 [taxonomies]
   category = "categories"
