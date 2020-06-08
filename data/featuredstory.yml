@@ -10,7 +10,7 @@ defaultRight: |
 items:
   -
     title: Events, Activities and News
-    content: The openPASS working group organizes itself into a Steering Committee and an Architecture Committee. Every 2 weeks either an SC meeting or an AC meeting takes place in alternating order. In the sense of an open source project every meeting is being logged and freely available to public. The meeting minutes can be found on Eclipsepedia 
+    content: The openPASS working group organizes itself into a Steering Committee and an Architecture Committee. Every 2 weeks either an SC meeting or an AC meeting takes place in alternating order. In the sense of an open source project every meeting is being logged and freely available to public. The meeting minutes can be found on Eclipsepedia. 
     bgImgSrc: /images/openpass/default-story-banner.jpg
     link: <a class="button btn btn-primary" href ="https://wiki.eclipse.org/OpenPASS-WG">Eclipsepedia</a>
     startDate: 2019-09-07
