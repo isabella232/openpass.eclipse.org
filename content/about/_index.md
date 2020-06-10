@@ -38,7 +38,7 @@ For further information please visit the [Eclipse OpenPASS Working Group Charter
 
 **Speaker of the Steering Committee:** Jan Dobberstein (Daimler AG)
 - BMW Group, Thomas Platzer
-- Daimler AG, Jan Dobberstein
+- Mercedes-Benz AG, Jan Dobberstein
 - Robert Bosch GmbH, Daniel Schmidt
 - TÜV Süd, Emmeram Klotz
 - Volkswagen Group of America, Inc., Jason Gainey
@@ -51,7 +51,7 @@ To contact the openPASS Steering Committee, please write to [openpass-sc@eclipse
 
 **Speaker of the Architecture Committee:** Arun Das (BMW Group)
 - BMW Group, Arun Das
-- Daimler AG, Per Lewerenz
+- Mercedes-Benz AG, Per Lewerenz
 - Robert Bosch GmbH, Daniel Schmidt
 - TÜV Süd, Emmeram Klotz
 - Volkswagen Group of America, Inc., Jason Gainey
