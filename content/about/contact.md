@@ -24,7 +24,7 @@ In the [openPASS charter](https://www.eclipse.org/org/workinggroups/openpasswg_c
 
 For more information, contact or subscribe to the [public WG mailing list](https://dev.eclipse.org/mailman/listinfo/openpass-wg).
 
-For addressing especially developers of OpenPASS, contact or subscribe to the [developer mailing list](https://dev.eclipse.org/mailman/listinfo/simopenpass-dev).
+For addressing especially developers of openPASS, contact or subscribe to the [developer mailing list](https://dev.eclipse.org/mailman/listinfo/simopenpass-dev).
 
 **For the Eclipse Foundation:**  
 
