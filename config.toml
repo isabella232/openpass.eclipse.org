@@ -104,13 +104,13 @@ enableRobotsTXT = true
     weight = "1"
     
 [[menu.main]]
-    name = "Installation Guide"
+    name = "Installation"
     url = "/resources/#installation"
     parent = "Resources"
     weight = "2"
     
 [[menu.main]]
-    name = "Tutorials"
+    name = "Tutorial"
     url = "/resources/#tutorial"
     parent = "Resources"
     weight = "3"
@@ -132,13 +132,7 @@ enableRobotsTXT = true
     url = "/resources/#report-a-bug"
     parent = "Resources"
     weight = "6"
-    
-[[menu.main]]
-    name = "Project Page"
-    url = "/resources/#project-page"
-    parent = "Resources"
-    weight = "7"
-    
+       
 [[menu.main]]
     name = "Contact"
     url = "/about/contact"
