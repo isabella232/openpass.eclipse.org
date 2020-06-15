@@ -82,7 +82,7 @@ enableRobotsTXT = true
 
 [[menu.main]]
     name = "Members"
-    url = "/membership"
+    url = "/about/#members"
     parent = "Working Group"
     weight = "4"
 

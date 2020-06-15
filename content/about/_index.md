@@ -21,6 +21,10 @@ The Eclipse Working Group openPASS was founded in August 2016. The idea of openP
 
 The WG is managing a single project namely sim@openPASS. The initial commit was in March 2017. Since then the open source platform has been developed further and several releases have been published.
 
+## Members
+
+{{< members_list_no_nav >}}
+
 ## Governance
 
 |Privilege|Driver Member|User Member|Service Provider Member|Project Manager|
