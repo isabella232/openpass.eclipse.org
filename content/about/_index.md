@@ -30,22 +30,25 @@ Architecture Committee|X|-      |-      |X
 Quality Committee     |X|Elected|Elected|X 
 General Assembly      |X|X      |X      |- 
 
-For further information please visit the [Eclipse OpenPASS Working Group Charter](https://www.eclipse.org/org/workinggroups/openpasswg_charter.php).
+For further information please visit the <ins>[Eclipse OpenPASS Working Group Charter](https://www.eclipse.org/org/workinggroups/openpasswg_charter.php)</ins>.
 
 ## Committees
 
+
 ### Steering Committee  
+
+Product Manager: Tuan Duong Quang (TÜV SÜD Auto Service GmbH)
 
 **Speaker of the Steering Committee:** Jan Dobberstein (Daimler AG)
 - BMW Group, Thomas Platzer
 - Mercedes-Benz AG, Jan Dobberstein
 - Robert Bosch GmbH, Daniel Schmidt
-- TÜV Süd, Emmeram Klotz
+- TÜV SÜD Auto Service GmbH, Emmeram Klotz
 - Volkswagen Group of America, Inc., Jason Gainey
 - ITK-Engineering GmbH, Dmitri Fix
 - Toyota Motor Europe, Pablo Puente Guillen
 
-To contact the openPASS Steering Committee, please write to [openpass-sc@eclipse.org](mailto:openpass-sc@eclipse.org)
+To contact the openPASS Steering Committee, please write to <ins>[openpass-sc@eclipse.org](mailto:openpass-sc@eclipse.org)</ins>.
 
 ### Architecture Committee  
 
@@ -53,9 +56,8 @@ To contact the openPASS Steering Committee, please write to [openpass-sc@eclipse
 - BMW Group, Arun Das
 - Mercedes-Benz AG, Per Lewerenz
 - Robert Bosch GmbH, Daniel Schmidt
-- TÜV Süd, Emmeram Klotz
+- TÜV SÜD Auto Service GmbH, Emmeram Klotz
 - Volkswagen Group of America, Inc., Jason Gainey
 - ITK-Engineering GmbH, Dmitri Fix
-- openPASS product manager, Tuan Duong Quang
 
-Meetings minutes of both Committees can be found in our [Eclipsepedia](https://wiki.eclipse.org/OpenPASS-WG).
+Meetings minutes of both Committees can be found in our <ins>[Eclipsepedia](https://wiki.eclipse.org/OpenPASS-WG)</ins>.
