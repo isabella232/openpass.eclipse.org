@@ -51,7 +51,7 @@ Here you can download the [documentation to the openPASS GUI](documentation.chm)
 |Framework     |A software environment which provides the functionality to simulate a set of different traffic scenarios. Consists of the Core and the Core Modules.|
 |openPASS      |Framework for the simulative evaluation of active safety systems in vehicles.|
 |OpenPassMaster|Coordinator of the simulation process. It starts one slave for each scenario.|
-|OpenPassSlave |Is the Simulator. It runs one scenario with a defined number of similar situations.|
+|OpenPassSlave |The OpenPassSLAVE is the simulator. It runs one scenario with a defined number of similar situations.|
 
 
 #### Agents  
