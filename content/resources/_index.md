@@ -14,23 +14,23 @@ layout: "single"
 
 ## Sim@openPASS
 
-Sim@openPASS is the platform which is created, developed and maintained by the openPASS WG. The Eclipse sim@openPASS platform mainly consists of a GUI and a simulation core interacting with openPASS modules as well as external programs for post-processing. More information about the project can be found on the [project page](https://projects.eclipse.org/projects/technology.simopenpass). [This link](https://git.eclipse.org/r/plugins/gitiles/simopenpass/simopenpass/) directs you to the git repository to download the simulation platform.
+Sim@openPASS is the platform which is created, developed and maintained by the openPASS WG. The Eclipse sim@openPASS platform mainly consists of a GUI and a simulation core interacting with openPASS modules as well as external programs for post-processing. More information about the project can be found on the <ins>[project page](https://projects.eclipse.org/projects/technology.simopenpass)</ins>. <ins>[This link](https://git.eclipse.org/r/plugins/gitiles/simopenpass/simopenpass/)</ins> directs you to the git repository to download the simulation platform.
 
 ## Installation
 
-Here you can download [the installation guide for sim@openPASS](osi_world_set_up.pdf).
+Here you can download <ins>[the installation guide for sim@openPASS](osi_world_set_up.pdf)</ins>.
 
-Besides that, the openPASS WG cooperates with the High-Performance Computing Center Stuttgart HLRS. They provide a Windows installer for openPASS. The openPASS WG and the Eclipse Foundation are not responsible for the content and the installer did not went through any Eclipse Foundation processes. For a quick setup please have a look on their [site](https://fs.hlrs.de/projects/covise/support/download/openPASS/). If you are also interested to make distributions regarding openPASS relevant content, please get in contact with us. The contact information can be found in the tab "Contact".
+Besides that, the openPASS WG cooperates with the High-Performance Computing Center Stuttgart HLRS. They provide a <ins>[Windows installer for openPASS](https://fs.hlrs.de/projects/covise/support/download/openPASS/)</ins>. The openPASS WG and the Eclipse Foundation are not responsible for the content and the installer did not went through any Eclipse Foundation processes. For a quick setup please have a look on their site. If you are also interested to make distributions regarding openPASS relevant content, please get in contact with us. The contact information can be found in the tab "Contact".
 
 ## Tutorial
 
-Here you can download a [tutorial on how to configure a simulation with openPASS](tutorial_openpass_gui.pdf).
+Here you can download a <ins>[tutorial on how to configure a simulation with openPASS](tutorial_openpass_gui.pdf)</ins>.
 
 ## Documentation
 
-Here you can download the [documentation to openPASS](openpass_function_docu.chm).
+Here you can download the <ins>[documentation to openPASS](openpass_function_docu.chm)</ins>.
 
-Here you can download the [documentation to the openPASS GUI](documentation.chm).
+Here you can download the <ins>[documentation to the openPASS GUI](documentation.chm)</ins>.
 
 ## Glossary  
 ### General  
@@ -51,7 +51,7 @@ Here you can download the [documentation to the openPASS GUI](documentation.chm)
 |Framework     |A software environment which provides the functionality to simulate a set of different traffic scenarios. Consists of the Core and the Core Modules.|
 |openPASS      |Framework for the simulative evaluation of active safety systems in vehicles.|
 |OpenPassMaster|Coordinator of the simulation process. It starts one slave for each scenario.|
-|OpenPassSlave |The OpenPassSLAVE is the simulator. It runs one scenario with a defined number of similar situations.|
+|OpenPassSlave |The OpenPassSlave is the simulator. It runs one scenario with a defined number of similar situations.|
 
 
 #### Agents  
@@ -65,4 +65,4 @@ Here you can download the [documentation to the openPASS GUI](documentation.chm)
 
 ## Report a Bug
 
-The openPASS WG uses Tuleap, an open source agile project management tool. Among other things, we are using it to track bugs, create user stories, epics and plan the next releases. Under the tracker “Bug” you can report your bug. Furthermore, you can find a summary which concludes all the previous fixed, ongoing and the new bugs. [Click here to create your first bug](https://tuleap.eclipse.org/plugins/tracker/?tracker=112).
+The openPASS WG uses Tuleap, an open source agile project management tool. Among other things, we are using it to track bugs, create user stories, epics and plan the next releases. Under the tracker “Bug” you can report your bug. Furthermore, you can find a summary which concludes all the previous fixed, ongoing and the new bugs. <ins>[Click here to create your first bug](https://tuleap.eclipse.org/plugins/tracker/?tracker=112)</ins>.
