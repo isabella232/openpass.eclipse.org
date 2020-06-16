@@ -18,13 +18,13 @@ The openPASS Working Group is open for all new interested members. Contact us if
 
 {{<bootstrap/button href="https://accounts.eclipse.org/contact/membership" pClass="text-center padding-20" linkClass="btn-primary padding-left-40 padding-right-40">}}Join us{{</bootstrap/button>}}
 
-In order to participate in the openPASS Working Group, an entity must be at least a Solutions Member of the Eclipse Foundation. The annual membership fee for Solutions Members is tiered based on revenue and are determined as described in the Eclipse Bylaws and are listed in the [Eclipse Membership Agreement](https://www.eclipse.org/org/documents/eclipse_membership_agreement.pdf).  
+In order to participate in the openPASS Working Group, an entity must be at least a Solutions Member of the Eclipse Foundation. The annual membership fee for Solutions Members is tiered based on revenue and are determined as described in the Eclipse Bylaws and are listed in the <ins>[Eclipse Membership Agreement](https://www.eclipse.org/org/documents/eclipse_membership_agreement.pdf)</ins>.  
 
-In the [openPASS charter](https://www.eclipse.org/org/workinggroups/openpasswg_charter.php) you can find additional information about the membership fee structure and membership privileges.
+In the <ins>[openPASS charter](https://www.eclipse.org/org/workinggroups/openpasswg_charter.php)</ins> you can find additional information about the membership fee structure and membership privileges.
 
-For more information, contact or subscribe to the [public WG mailing list](https://dev.eclipse.org/mailman/listinfo/openpass-wg).
+For more information, contact or subscribe to the <ins>[public WG mailing list](https://dev.eclipse.org/mailman/listinfo/openpass-wg)</ins>.
 
-For addressing especially developers of openPASS, contact or subscribe to the [developer mailing list](https://dev.eclipse.org/mailman/listinfo/simopenpass-dev).
+For addressing especially developers of openPASS, contact or subscribe to the <ins>[developer mailing list](https://dev.eclipse.org/mailman/listinfo/simopenpass-dev)</ins>.
 
 **For the Eclipse Foundation:**  
 
