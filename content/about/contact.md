@@ -30,10 +30,10 @@ For addressing especially developers of openPASS, contact or subscribe to the <i
 
 {{< grid/section-container class="margin-bottom-20">}}
 {{< grid/div class="col-xs-24 col-sm-12 col-md-8 padding-10" >}}
-Ralph Mueller  
-Managing Director  
-Office: +49 6251 8606413  
-Mail: Ralph.Mueller@eclipse.org
+Paul Buck  
+Community Development  
+Mobile: +01 613 220 6507  
+Mail: Paul.Buck@eclipse-foundation.org
 {{</ grid/div >}}
 {{</ grid/section-container >}}
 
