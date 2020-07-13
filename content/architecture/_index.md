@@ -19,7 +19,7 @@ The platform is built up in a modular manner. The simulation core calculates dif
 
 {{< figure class="padding-30 margin-right-50 margin-left-50" src="/architecture/openpass-interfaces.jpg" alt="Diagram containing interfaces of openPASS" >}}
 
-### Top-level Architecture
+## Top-level Architecture
 
 {{< figure class="padding-30 margin-right-50 margin-left-50" src="/architecture/top-level-platform-diagram.jpg" alt="Top level system architecture diagram" >}}
 
