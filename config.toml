@@ -62,12 +62,18 @@ enableRobotsTXT = true
     url = "/architecture/#platform-concept"
     parent = "Architecture"
     weight = "1"
+    
+[[menu.main]]
+    name = "Top-Level Architecture"
+    url = "/architecture/#top-level-architecture"
+    parent = "Architecture"
+    weight = "2"   
 
 [[menu.main]]
     name = "Simulation Process from the User Perspective"
     url = "/architecture/#simulation-process-from-the-user-perspective"
     parent = "Architecture"
-    weight = "2"
+    weight = "3"
     
 [[menu.main]]
     name = "Working Group"
