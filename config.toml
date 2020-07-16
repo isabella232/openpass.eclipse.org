@@ -70,7 +70,7 @@ enableRobotsTXT = true
     weight = "2"   
 
 [[menu.main]]
-    name = "Simulation Process from the User Perspective"
+    name = "Simulation Process"
     url = "/architecture/#simulation-process-from-the-user-perspective"
     parent = "Architecture"
     weight = "3"
