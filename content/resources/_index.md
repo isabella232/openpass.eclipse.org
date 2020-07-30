@@ -37,7 +37,7 @@ Here you can download the <ins>[documentation to the openPASS GUI](documentation
 
 |Term                 |Definition|
 |---------------------|---|
-|Active safety Systems|Active safety systems are, within the context of the tool, systems that have notable safety effect on the course of simulated situations.|
+|Active safety Systems|Active safety systems are, within the context of the tool, systems that have notable safety effect on the course of simulated scenarios.|
 |ADAS                 |Advanced Driver Assistance System|
 |PCM of GIDAS         |PreCrash Matrix from the database of the German In-Depth Accident Study|
 
@@ -58,7 +58,7 @@ Here you can download the <ins>[documentation to the openPASS GUI](documentation
 
 |Term           |Definition|
 |---------------|---|
-|Agent          |An arbitrary static or dynamic object in the simulation of a traffic situation. Therefore, it might (but does not have to) be a traffic participant. An agent consists of one Agent Equipment and its physical parameters.|
+|Agent          |An arbitrary static or dynamic object in the simulation of a traffic scenario. Therefore, it might (but does not have to) be a traffic participant. An agent consists of one Agent Equipment and its physical parameters.|
 |Agent Equipment|A set of components determining an agent’s behavior.|
 |Component      |A module that defines a specific part of an agent’s behavior, like sensing the environment (Sensor) or calculating a desired acceleration (Algorithm).|
 |Signal         |A general term that subsumes inputs and outputs. Signals are transported by channels within an agent’s equipment.|
