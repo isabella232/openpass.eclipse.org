@@ -30,7 +30,7 @@ Here you can download a <ins>[tutorial on how to configure a simulation with ope
 
 Here you can download the <ins>[documentation to openPASS](openpass_function_docu.chm)</ins>.
 
-Here you can download the <ins>[documentation to the openPASS GUI](documentation.chm)</ins>.
+Here you can download the <ins>[documentation to the openPASS GUI](GUI-DeveloperDocumentation.chm)</ins>.
 
 ## Glossary  
 ### General  
