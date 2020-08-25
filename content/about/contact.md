@@ -42,7 +42,7 @@ Mail: Paul.Buck@eclipse-foundation.org
 {{< grid/div class="col-xs-24 col-sm-12 col-md-8 padding-10" >}}
 Tuan Duong Quang  
 Product Manager  
-Mail: Tuan.DuongQuang@tuev-sued.de  
+Mail: Tuan.DuongQuang@tuvsud.com  
 {{</ grid/div >}}
 
 {{< grid/div class="col-xs-24 col-sm-12 col-md-8 padding-10" >}}
