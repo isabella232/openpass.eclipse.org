@@ -28,7 +28,7 @@ Here you can download a <ins>[tutorial on how to configure a simulation with ope
 
 ## Documentation
 
-Here you can download the <ins>[function documentation to openPASS](openPass_Function_Docu.chm)</ins>.
+Here you can download the <ins>[function documentation to openPASS](openPASS_Function_Docu.chm)</ins>.
 
 Here you can download the <ins>[developer documentation to openPASS](openPASS_Delevoper_Docu.chm)</ins>.
 
