@@ -18,7 +18,7 @@ Sim@openPASS is the platform which is created, developed and maintained by the o
 
 ## Installation
 
-Here you can download <ins>[the installation guide for sim@openPASS](OSI World Setup Guide.pdf)</ins>.
+Here you can download <ins>[the installation guide for sim@openPASS](osi_world_setup_guide.pdf)</ins>.
 
 Besides that, the openPASS WG cooperates with the High-Performance Computing Center Stuttgart HLRS. They provide a <ins>[Windows installer for openPASS](https://fs.hlrs.de/projects/covise/support/download/openPASS/)</ins>. The openPASS WG and the Eclipse Foundation are not responsible for the content and the installer did not went through any Eclipse Foundation processes. For a quick setup please have a look on their site. If you are also interested to make distributions regarding openPASS relevant content, please get in contact with us. The contact information can be found in the tab "Contact".
 
